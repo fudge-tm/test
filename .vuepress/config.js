@@ -93,6 +93,13 @@ module.exports = {
     //   appKey: '...', // your appKey
     // }
   },
+  module.exports = {
+  locales: {
+    '/': {
+      lang: 'zh-CN'
+    }
+  }
+},
   markdown: {
     lineNumbers: true
   }
